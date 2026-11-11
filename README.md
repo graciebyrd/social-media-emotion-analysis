@@ -44,7 +44,8 @@ https://doi.org/10.34740/KAGGLE/DSV/8460631
 
 ## Project Files
 
-- `Project 2.ipynb` — Python analysis, visualizations, statistical testing, and interpretations
+- `social-media-emotion-analysis.ipynb` — Python analysis, visualizations, statistical testing, and interpretations
+- `requirement_social_media.txt` — Python libraries used
 - `train.csv` — Input dataset (download separately from the dataset source)
 
 ## Skills Demonstrated
